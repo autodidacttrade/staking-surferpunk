@@ -1,6 +1,6 @@
 # SurferPunk Token + Staking DApp + NFT Access Pass (ERC-721) (Hardhat | Solidity)
 
-This project includes the smart contracts and scripts for **SURFPK (SurferPunk)**, an ERC-20 token deployed on Ethereum’s Sepolia testnet, and a basic staking contract with time-based reward logic.
+This project includes the smart contracts and scripts for **SRFPK (SurferPunk)**, an ERC-20 token deployed on Ethereum’s Sepolia testnet, and a basic staking contract with time-based reward logic.
 
 ## 🔧 Stack Used
 
@@ -14,7 +14,7 @@ This project includes the smart contracts and scripts for **SURFPK (SurferPunk)*
 ## 📄 Smart Contracts
 
 - `SurferPunk.sol`: ERC-20 Token (1,000,000 supply)
-- `StakingPool.sol`: Allows staking SURFPK and distributing time-based rewards
+- `StakingPool.sol`: Allows staking SRFPK and distributing time-based rewards
 
 ## 📂 Scripts
 
